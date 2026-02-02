@@ -44,5 +44,5 @@ Os repositórios refletem minha evolução como desenvolvedor e meu compromisso 
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vitor-souza-desenvolvedor/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vitor-souza-desenvolvedor/)  
 - 📧 Email: *vitorpereirasou2010@gmail.com*
