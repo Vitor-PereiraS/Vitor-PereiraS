@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Vitor
+# Vitor
 
 Sou desenvolvedor em formação, atualmente em **transição de carreira para a área de tecnologia**, com foco em **Java e Spring Boot**.  
 Venho de experiências na área social e administrativa, o que me ajudou a desenvolver comunicação, organização e visão de processo — habilidades que levo hoje para o desenvolvimento de software.
